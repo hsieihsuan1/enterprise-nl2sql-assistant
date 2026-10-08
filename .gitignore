@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+*.log
+wallet/
+*.pem
+*.key
+*.p12
+*.sso
+.streamlit/secrets.toml
+.pytest_cache/
